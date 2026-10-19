@@ -1,16 +1,22 @@
-## Hi there 👋
+# StudyPlanner
+Une application de gestion de tâches pour étudiants.
 
-<!--
-**2007ghita/2007ghita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Utilisateurs cibles
+Les étudiants qui gèrent leurs cours et leurs échéances.
 
-Here are some ideas to get you started:
+## Fonctionnalités
+- Créer des tâches avec un titre, une échéance et une priorité
+- Afficher toutes les tâches dans une liste
+- Marquer les tâches comme terminées
+- Filtrer les tâches par matière
+- Définir des niveaux de priorité (basse / moyenne / haute)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack technique
+- Next.js (framework React)
+- Déployé sur Vercel
+- ## User stories
+1. En tant qu'étudiant, je veux créer des tâches avec une échéance, afin de suivre mes devoirs.
+2. En tant qu'étudiant, je veux marquer des tâches comme terminées, afin de voir ma progression.
+3. En tant qu'étudiant, je veux filtrer les tâches par matière, afin de me concentrer sur un cours à la fois.
+4. En tant qu'étudiant, je veux définir des niveaux de priorité, afin de savoir par quelles tâches commencer.
+5. En tant qu'étudiant, je veux voir la liste de toutes mes tâches, afin d'avoir une vue d'ensemble de ma charge de travail.
